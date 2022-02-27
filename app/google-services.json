@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090403271293",
+    "project_id": "sharedphotosproje",
+    "storage_bucket": "sharedphotosproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090403271293:android:02cc0d4954d67cb05fa714",
+        "android_client_info": {
+          "package_name": "com.example.sharedphotosactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090403271293-nk8kmesg73ejb3s61sug9jf31i2j1iqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsjJx8FZBb30Ppks4bQ2rSmJOQ4HeEd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090403271293-nk8kmesg73ejb3s61sug9jf31i2j1iqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
